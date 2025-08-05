@@ -1,6 +1,6 @@
 
 # product-management-sql
-A beginner SQL project based on Agile &amp; Scrum
+A beginner SQL project based on Agile &amp; Scrum. Work in progress. 
 
 
 # 🧠 AI Tools - Product Management SQL
